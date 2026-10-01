@@ -1,2 +1,1 @@
-# gestionale
-management web app I'm working on
+Simple management tool
